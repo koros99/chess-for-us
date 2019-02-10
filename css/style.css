@@ -45,7 +45,7 @@
   font-family: 'Lobster', cursive;
 }
 
-/* nav>ul{
+nav>ul{
   text-align: right;
 }
 
@@ -218,7 +218,7 @@ ul li a:hover{
   margin-right: 1em;
 }
 
-.media{
+/* .media{
   background-color:silver;
   display:flex;
   padding:0.2em;
